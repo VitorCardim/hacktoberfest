@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Vitor Cardim](https://github.com/VitorCardim)
+- Place: Recife, Brazil
+- Bio: Student
+- Github: [Vitor Cardim](https://github.com/VitorCardim)
